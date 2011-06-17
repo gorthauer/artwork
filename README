@@ -1,17 +1,23 @@
-Основная иконка приложения Main
+Graphics:
 
-Иконки для трея
-	- Default
-	- Faenza
-	- Ubuntu Mono Light
-	- Ubuntu Mono Dark
-	- Oxygen
-	- Win7
+Icons
 
-Иконки для протоколов
-	- Jabber
-	- ICQ
-	- IRC
-	- Mail.ru
-	- MSN
-	- Gadu-gadu
+	Main icon
+
+	Icons for tray
+		- Default
+		- Faenza
+		- Ubuntu Mono Light
+		- Ubuntu Mono Dark
+		- Oxygen
+		- Win7
+
+	Icons for protocols
+		- Jabber
+		- ICQ
+		- IRC
+		- Mail.ru
+		- MSN
+		- Gadu-gadu
+		
+Sounds:
