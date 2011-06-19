@@ -1,17 +1,15 @@
-Graphics:
-
-Icons
+Icons:
 
 	Main icon
-
+	Main offline icom for MacDock
 	Icons for tray
 		- Default
 		- Faenza
+		- Faenza-Dark
 		- Ubuntu Mono Light
 		- Ubuntu Mono Dark
 		- Oxygen
 		- Win7
-
 	Icons for protocols
 		- Jabber
 		- ICQ
@@ -19,5 +17,6 @@ Icons
 		- Mail.ru
 		- MSN
 		- Gadu-gadu
+	Status icons
 		
 Sounds:

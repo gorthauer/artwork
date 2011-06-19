@@ -14,8 +14,8 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.1 "
-   sodipodi:docname="Jabber.svg">
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="im-jabber.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -533,9 +533,9 @@
        inkscape:connector-curvature="0" />
     <path
        style="font-size:188.25698853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sakkal Majalla;-inkscape-font-specification:Sakkal Majalla"
-       d="M 76.71875 65.40625 L 68 73.65625 L 75.875 83.6875 L 84.6875 75.4375 L 76.71875 65.40625 z M 106.0625 68.53125 L 97.34375 76.78125 L 105.21875 86.8125 L 114.03125 78.5625 L 106.0625 68.53125 z "
-       transform="translate(0,796.36215)"
-       id="path3213" />
+       d="m 66.71875,849.7684 -8.71875,8.25 7.875,10.03125 8.8125,-8.25 -7.96875,-10.03125 z m 29.34375,3.125 -8.71875,8.25 7.875,10.03125 8.8125,-8.25 -7.96875,-10.03125 z"
+       id="path3213"
+       inkscape:connector-curvature="0" />
     <path
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:url(#radialGradient3204);fill-opacity:1;stroke:none;stroke-width:25;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 210.89598,942.67966 a 2.8574544,2.8221529 0 0 0 -0.69025,3.03999 c 2.53124,6.84466 1.38733,14.49229 -2.25537,22.34356 -3.64271,7.85126 -9.76958,15.74485 -16.67161,22.59074 -6.90204,6.8459 -14.57903,12.66015 -21.15999,16.45555 -3.29049,1.8977 -6.31561,3.2846 -8.74075,4.0579 -2.42514,0.7733 -4.24333,0.8021 -4.80616,0.6328 a 2.8574544,2.8221529 0 1 0 -1.66535,5.3953 c 2.56673,0.7723 5.23764,0.2964 8.23075,-0.6579 2.9931,-0.9544 6.3157,-2.5153 9.86426,-4.5619 7.09711,-4.0931 15.07359,-10.1455 22.32558,-17.33848 7.25199,-7.19301 13.77607,-15.50527 17.82032,-24.22202 4.04426,-8.71675 5.61773,-18.00173 2.42584,-26.6329 a 2.8574544,2.8221529 0 0 0 -4.67727,-1.10264 z"
@@ -568,13 +568,14 @@
        d="m 234.93908,968.77175 c 19.16522,22.30087 23.42264,50.60005 6.39695,67.26935 -17.02568,16.6693 -45.63859,11.7617 -68.0524,-6.9044 -39.62334,-32.99824 -36.54083,-37.75648 -6.39697,-67.26939 30.14386,-29.51291 34.51318,-32.12221 68.05242,6.90444 z"
        style="fill:url(#linearGradient3189);fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <g
-       transform="matrix(1.0543937,-1.0323238,0.48011959,0.47834231,0,0)"
+       transform="matrix(1.0543937,-1.0323238,0.48011959,0.47834231,-10,-10)"
        style="font-size:239.7829895px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        id="text4007">
       <path
          d="m -367.54804,1171.2014 c -3e-5,8.8982 -2.20506,16.1963 -6.6151,21.8943 -4.4101,5.6979 -10.79103,10.3812 -19.14284,14.0497 l -3.39536,-5.5028 c 2.65384,-1.7953 4.81985,-3.8832 6.49803,-6.2638 1.67815,-2.3807 2.98556,-4.976 3.92223,-7.786 0.93664,-2.8099 1.58058,-5.7565 1.93184,-8.8396 0.35123,-3.0832 0.52685,-6.2639 0.52687,-9.5422 l 0,-117.9011 16.27433,0 z"
          style="font-variant:normal;font-stretch:normal;font-family:Sakkal Majalla;-inkscape-font-specification:Sakkal Majalla"
-         id="path3229" />
+         id="path3229"
+         inkscape:connector-curvature="0" />
     </g>
     <path
        style="fill:#363411;fill-opacity:1;stroke:none"
