@@ -15,8 +15,8 @@
    height="256"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r10300"
-   sodipodi:docname="qutim.svg">
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="dock-offline-qutim.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -225,15 +225,6 @@
        y1="768.75525"
        x2="996.0105"
        y2="65.689064" />
-    <filter
-       id="filter4128-0"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4130-6"
-         stdDeviation="26.153023"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient5461-1-4">
       <stop
@@ -255,15 +246,6 @@
        id="linearGradient4102-1"
        xlink:href="#linearGradient5461-1-4"
        inkscape:collect="always" />
-    <filter
-       id="filter4073"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur4075"
-         stdDeviation="1.879749"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        id="linearGradient4932-8">
       <stop
@@ -314,15 +296,6 @@
        xlink:href="#linearGradient6701-4-0"
        inkscape:collect="always"
        gradientTransform="translate(101.30736,108.08128)" />
-    <filter
-       id="filter5397-4"
-       inkscape:collect="always"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         id="feGaussianBlur5399-4"
-         stdDeviation="3.6574608"
-         inkscape:collect="always" />
-    </filter>
     <clipPath
        id="clipPath5383-4"
        clipPathUnits="userSpaceOnUse">
@@ -535,15 +508,6 @@
        id="linearGradient4196"
        xlink:href="#linearGradient4190"
        inkscape:collect="always" />
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter4128"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur4130"
-         stdDeviation="26.153023"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientTransform="translate(-20,10)"
        y2="65.689064"
@@ -3311,10 +3275,10 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="848"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1192"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -3324,7 +3288,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
