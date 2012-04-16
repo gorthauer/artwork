@@ -1,6 +1,7 @@
 Icons:
 
 	Main icon
+	Main icon. Faenza theme
 	Main offline icom for MacDock
 	Icons for tray
 		- Default
@@ -15,8 +16,7 @@ Icons:
 		- ICQ
 		- IRC
 		- Mail.ru
-		- MSN
-		- Gadu-gadu
+		- Skype
+		- vKontakte
 	Status icons
-		
-Sounds:
+	Webkit style icons
